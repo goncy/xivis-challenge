@@ -1,6 +1,6 @@
-# Xvis challenge
+# Xivis challenge
 
-[DEMO](https://goncy-xvis-challenge.netlify.com/)
+[DEMO](https://goncy-xivis-challenge.netlify.com/)
 
 Pending:
 * Reduce stock when adding to cart
